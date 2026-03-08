@@ -1,12 +1,12 @@
-## Hi, I'm Josey 👋
+# Hi, I'm Josey 👋
 
 
-# M.Sc. graduate with strong focus on automotive software engineering from Germany with hands on experience in RPA(Automation anywhwere and Uipath), currently working python, deep learning models, computer vsison and UAV.
+## M.Sc. graduate with strong focus on automotive software engineering from Germany with hands on experience in RPA(Automation anywhwere and Uipath), currently working python, deep learning models, computer vsison and UAV.
 
-🔭 Graduated from TU Chemnitz(M.Sc Automotive Software Engineering)
-👨‍💻 All of my projects are available at https://josey0108.github.io/
-📫 Contact: LinkedIn: www.linkedin.com/in/josey-mol-sibi-1a3a7a23b
-             Mail: sibijoseymol@gmail.com
+ • 🔭 Graduated from TU Chemnitz(M.Sc Automotive Software Engineering)
+ • 👨‍💻 All of my projects are available at https://josey0108.github.io/
+ • 📫 Contact: LinkedIn: www.linkedin.com/in/josey-mol-sibi-1a3a7a23b
+                Mail: sibijoseymol@gmail.com
 
 
 
