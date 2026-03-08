@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Josey0108/Josey0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Josey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+M.Sc. graduate with hands-on experience in YOLOv8-based object detection in CARLA and real-time multi-stream video transmission for autonomous UAVs.
+
+## Work I’ve done
+- Built a vehicle and traffic light detection system in the CARLA simulator using YOLOv8
+- Worked on dual/multi-stream video transmission for autonomous UAV applications
+- Used Docker, Linux, GStreamer, Python, and OpenCV in development workflows
+- Explored real-time streaming pipelines for Jetson Nano-based deployment
+
+## Projects
+- Vehicle and Traffic Light Detection in CARLA
+- Dual Streaming using Jetson Nano
+- Empirical study project
+- Object detection using coco-ssd
+
+## Tools
+Python • OpenCV • YOLOv8 • CARLA • Docker • Linux • GStreamer • Git 
+
+## Contact
+- LinkedIn: your-linkedin-link
+- Email: your-email
